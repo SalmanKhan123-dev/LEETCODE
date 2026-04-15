@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0390-elimination-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0390-elimination-game/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0390-elimination-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0390-elimination-game/) | Medium |
 <!---LeetCode Topics End-->
