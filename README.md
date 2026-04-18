@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 ## Divide and Conquer
