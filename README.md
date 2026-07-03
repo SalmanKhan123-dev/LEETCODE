@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0198-house-robber/) | Medium |
 ## Monotonic Stack
