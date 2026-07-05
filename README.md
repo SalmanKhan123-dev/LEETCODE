@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
