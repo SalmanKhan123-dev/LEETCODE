@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 ## Divide and Conquer
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0169-majority-element/) | Easy |
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0344-reverse-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
