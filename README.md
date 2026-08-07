@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
