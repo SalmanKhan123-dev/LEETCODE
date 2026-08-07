@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
@@ -191,5 +192,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0344-reverse-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0344-reverse-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
