@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0326-power-of-three/) | Easy |
 | [0390-elimination-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0050-powx-n](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0326-power-of-three/) | Easy |
 | [0390-elimination-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Breadth-First Search
