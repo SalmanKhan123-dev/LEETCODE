@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
