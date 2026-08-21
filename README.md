@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1763-longest-nice-substring](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1763-longest-nice-substring/) | Easy |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -198,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
