@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0231-power-of-two/) | Easy |
@@ -347,4 +349,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0933-number-of-recent-calls/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
