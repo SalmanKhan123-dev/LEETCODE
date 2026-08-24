@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0075-sort-colors/) | Medium |
@@ -352,5 +353,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
