@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
+| [0860-lemonade-change](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1470-shuffle-the-array/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
