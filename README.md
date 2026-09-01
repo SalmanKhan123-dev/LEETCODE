@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0390-elimination-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0394-decode-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1763-longest-nice-substring](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1763-longest-nice-substring/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
