@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0733-flood-fill/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -383,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
