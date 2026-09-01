@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0394-decode-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0682-baseball-game/) | Easy |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0390-elimination-game/) | Medium |
+| [0394-decode-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0344-reverse-string/) | Easy |
+| [0394-decode-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0394-decode-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1763-longest-nice-substring](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1763-longest-nice-substring/) | Easy |
