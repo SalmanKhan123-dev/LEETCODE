@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
