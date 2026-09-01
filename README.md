@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
+| [0454-4sum-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0454-4sum-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [1763-longest-nice-substring](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1763-longest-nice-substring/) | Easy |
 ## Divide and Conquer
