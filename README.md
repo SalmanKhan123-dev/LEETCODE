@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0390-elimination-game/) | Medium |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -404,4 +406,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
