@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1470-shuffle-the-array/) | Easy |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
