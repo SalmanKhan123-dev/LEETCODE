@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0390-elimination-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2235-add-two-integers](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/2235-add-two-integers/) | Easy |
 | [2652-sum-multiples](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/2652-sum-multiples/) | Easy |
 ## Two Pointers
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
