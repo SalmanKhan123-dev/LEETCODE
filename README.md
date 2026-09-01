@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0454-4sum-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1763-longest-nice-substring](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1763-longest-nice-substring/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1763-longest-nice-substring](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1763-longest-nice-substring/) | Easy |
 ## Memoization
