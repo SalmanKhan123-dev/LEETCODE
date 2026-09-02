@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0733-flood-fill/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0394-decode-string/) | Medium |
@@ -455,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0046-permutations](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0078-subsets/) | Medium |
+| [0257-binary-tree-paths](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
