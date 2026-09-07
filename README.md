@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
@@ -448,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
