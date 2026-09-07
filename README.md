@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
+| [0063-unique-paths-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0075-sort-colors](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
+| [0063-unique-paths-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0733-flood-fill/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
