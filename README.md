@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
