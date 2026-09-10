@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0189-rotate-array/) | Medium |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
@@ -435,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
