@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
+| [0066-plus-one](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0189-rotate-array/) | Medium |
