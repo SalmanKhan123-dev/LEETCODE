@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0274-h-index](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0274-h-index/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0231-power-of-two/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0342-power-of-four/) | Easy |
 | [1763-longest-nice-substring](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1763-longest-nice-substring/) | Easy |
 ## String
@@ -574,4 +578,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
