@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0063-unique-paths-ii/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0733-flood-fill/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
