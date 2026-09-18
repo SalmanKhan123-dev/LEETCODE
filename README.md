@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0274-h-index](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0274-h-index/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/SalmanKhan123-dev/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
